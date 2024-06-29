@@ -561,6 +561,7 @@ nav {
 
 .world-section {
   background-color: var(--brown-color);
+  overflow-x: hidden;
   width: 100%;
 }
 
